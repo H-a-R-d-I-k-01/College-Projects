@@ -1,2 +1,2 @@
-# My-SQL-Projects
-Repository showcasing MySQL projects.
+# College-Projects
+Repository showcasing my college projects.
